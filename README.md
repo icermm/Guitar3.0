@@ -1,13 +1,13 @@
 # Guitar3.0
 #运行界面
 ![images](https://github.com/icermm/guitar3.0/blob/master/image/1.jpg)
-删除
+##删除
 ![images](https://github.com/icermm/guitar3.0/blob/master/image/2.jpg)
 ![images](https://github.com/icermm/guitar3.0/blob/master/image/3.jpg)
-添加
+##添加
 ![images](https://github.com/icermm/guitar3.0/blob/master/image/4.jpg)
 ![images](https://github.com/icermm/guitar3.0/blob/master/image/5.jpg)
-搜索
+##搜索
 ![images](https://github.com/icermm/guitar3.0/blob/master/image/15.jpg)
 #项目结构
 ![images](https://github.com/icermm/guitar3.0/blob/master/image/6.jpg)
@@ -19,11 +19,11 @@
 #工厂dataAccess
 ![images](https://github.com/icermm/guitar3.0/blob/master/image/9.jpg)
 #在servlet中调用接口
-搜索
+##搜索
 ![images](https://github.com/icermm/guitar3.0/blob/master/image/12.jpg)
-删除
+##删除
 ![images](https://github.com/icermm/guitar3.0/blob/master/image/13.jpg)
-添加
+##添加
 ![images](https://github.com/icermm/guitar3.0/blob/master/image/14.jpg)
 #测试
 ![images](https://github.com/icermm/guitar3.0/blob/master/image/11.jpg)
